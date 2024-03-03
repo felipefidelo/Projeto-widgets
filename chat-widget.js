@@ -54,7 +54,7 @@
 
 <div id="chat-widget">
     <div id="chat-button">
-        <img src="URL_DO_ICONE" alt="Ícone de Chat" width="30">
+        <img src="https://github.com/felipefidelo/Projeto-widgets/blob/main/Animation%20-%201709402093777.gif?raw=true" alt="Ícone de Chat" width="30">
     </div>
     <div id="message-bubble">
         <div class="contact-name">André</div>
